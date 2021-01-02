@@ -1,6 +1,7 @@
 {
+  "homepage": "https://himanshigupta10.github.io/Clone-Instagram",
+
   "name": "instagramclone",
-  "homepage": "https://himanshigupta10.github.io/Instagram-Clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
